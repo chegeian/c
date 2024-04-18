@@ -1,6 +1,10 @@
 body {
 	/*background-color: #FFDAB9;	*/
 	background-color: #000;
+	/* background-image: url(./ny.jpg);
+	background-repeat: no-repeat;
+	background-position:initial;
+	background-size: cover; */
 	-webkit-transition:background-color linear 5s;
 	-moz-transition:background-color linear 5s;
 	-o-transition:background-color linear 5s;
@@ -1094,7 +1098,7 @@ audio {
 	display: none;
 }
 #b1,#b11 {
-	background-image: url('b1.png');
+	background-image: url('./am.jpg');
 }
 #b2,#b22 {
 	background-image: url('b2.png');
@@ -1103,7 +1107,7 @@ audio {
 	background-image: url('b3.png');
 }
 #b4,#b44{
-	background-image: url('b4.png');
+	background-image: url('./ny.jpg');
 }
 #b5,#b55{
 	background-image: url('b5.png');
@@ -1112,7 +1116,7 @@ audio {
 	background-image: url('b6.png');
 }
 #b7,#b77{
-	background-image: url('b7.png');
+	background-image: url('./ur.jpg');
 }
 .balloons-rotate-behaviour-one {
 	-webkit-animation: balloons_rotate_one linear 10s infinite;
